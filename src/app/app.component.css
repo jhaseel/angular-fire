@@ -1,0 +1,4 @@
+p { font-family: Lato; } 
+.form-control { margin-left: 15px; }
+ pre { box-sizing: border-box; width: 100%; margin: 0; margin-bottom: 15px; overflow: auto; overflow-y: hidden; font-size: 12px; line-height: 20px; background: #efefef; border: 1px solid #777; background: url(lines.png) repeat 0 0; padding: 10px; color: #333; } 
+ .btn-group { margin-top: 1em; margin-bottom: 1em; }
